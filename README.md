@@ -18,6 +18,8 @@ do
 done
 ```
 
+...and then doing manual directory and filename renames, changing "Omega-EAD" to "mos_2021".  "Omega-EAD" was used for the EAD filename, but the {{<eadid>}} is "mos_2021".
+
 Version information:
 
 * Omega file: [dlts\-finding\-aids\-ead\-go\-packages/ead/testdata/omega/v0\.1\.5 /Omega\-EAD\.xml](https://github.com/NYULibraries/dlts-finding-aids-ead-go-packages/blob/7baee7dfde24a01422ec8e6470fdc8a76d84b3fb/ead/testdata/omega/v0.1.5/Omega-EAD.xml) 
