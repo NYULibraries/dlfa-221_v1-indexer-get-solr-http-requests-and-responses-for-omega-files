@@ -1,0 +1,7 @@
+POST /solr/findingaids/update?wt=ruby HTTP/1.1
+Content-Type: text/xml
+Connection: close
+Host: localhost:8983
+Content-Length: 47
+
+<?xml version="1.0" encoding="UTF-8"?><commit/>
